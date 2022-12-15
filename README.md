@@ -15,13 +15,17 @@ In short, "cryptographic" refers to the specific techniques and algorithms used 
 #### there are many different algorithms that can be used for encryption and decryption, 
 including the Advanced Encryption Standard (AES) algorithm. Some other examples of encryption algorithms include:
 
-###### AES --> Advanced Encryption Standard (AES): This is a widely used encryption algorithm that can be used with different key lengths (128, 192, or 256 bits) to increase the level of security.
+###### AES 
+Advanced Encryption Standard (AES): This is a widely used encryption algorithm that can be used with different key lengths (128, 192, or 256 bits) to increase the level of security.
   
-###### Blowfish --> Blowfish: This is a symmetric block cipher that can be used with keys of any length, up to 448 bits. It is considered to be very fast and secure.
+###### Blowfish 
+Blowfish: This is a symmetric block cipher that can be used with keys of any length, up to 448 bits. It is considered to be very fast and secure.
 
-###### DES (Data Encryption Standard) --> DES (Data Encryption Standard): This is an older encryption algorithm that uses a 56-bit key. While it is not considered to be as secure as newer algorithms, it is still in use in some applications.
+###### DES (Data Encryption Standard) 
+DES (Data Encryption Standard): This is an older encryption algorithm that uses a 56-bit key. While it is not considered to be as secure as newer algorithms, it is still in use in some applications.
 
-###### RC4 --> RC4 (Rivest Cipher 4): This is a stream cipher that is commonly used in web browsers and other applications. It is relatively easy to implement and is considered to be fast, but it is not considered to be as secure as some other algorithms.
+###### RC4 
+RC4 (Rivest Cipher 4): This is a stream cipher that is commonly used in web browsers and other applications. It is relatively easy to implement and is considered to be fast, but it is not considered to be as secure as some other algorithms.
 
 ###### Twofish --> Twofish is a symmetric-key encryption algorithm, which means it is a type of two-way encryption. This means that it uses a single secret key to both encrypt and decrypt data. Twofish is a block cipher that uses a 128-bit block size and can accept keys of any length up to 256 bits. It is considered to be very secure and is often used in applications that require high levels of security.
 
