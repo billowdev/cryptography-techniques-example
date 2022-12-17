@@ -6,12 +6,13 @@ const crypto = require('crypto');
 const { stringify } = require('querystring');
 const { encryptAES, decryptAES } = require('./aes');
 
+// this code for testing encryption data
 
 app.use(bodyParser.json())
 app.post('/aes', async (req, res) => {
 	try {
 		const data = req.body
-		const secretKey = 'test'
+		const secretKey = 'yoursecretkey'
 		// Encrypt
 		const encrypted = encryptAES(data, secretKey)
 		// Decrypt
