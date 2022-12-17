@@ -129,3 +129,5 @@ Some examples of two-way encryption algorithms include the Advanced Encryption S
 - National institute of standards and technology. (2020). Digital Signatures. Retrieved December 17, 2022, from https://csrc.nist.gov/Projects/digital-signatures
   
 - National institute of standards and technology. (2022). Hash Functions. Retrieved December 17, 2022, from https://csrc.nist.gov/Projects/Hash-Functions
+  
+- National institute of standards and technology. (n.d.). authentication. Retrieved December 17, 2022, from https://csrc.nist.gov/glossary/term/authentication
